@@ -24,6 +24,7 @@
 然后他家的江苏高防BGP也不错，就是最近出墙有点问题，商家正在解决，可以的话BGP那款对联通用户更友好一点，也是25元（现货，而且可以使用循环5折优惠码 <font color="red">_JSNat-50_</font> 折后只要14.99元一个月），订购链接：[JSNat-Bronze](https://www.ygeidc.com/aff.php?aff=55&a=add&pid=35)   
 
 另外如果需要不限流量的可以看看 [PQS](https://www.pqs.pw/aff.php?aff=31&gid=15) 这家新上的深圳电信家宽，出墙应该更快   
+更便宜的还有 CanBesystems(cbvps) 家的[河南BGP](http://www.cbvps.net/cart.php?gid=14)，不过我没用过   
 
 然后需要一台国外搭建了SSR的服务器，可以自己购买服务器搭建，国外服务器选购我就不推荐了，太杂乱了，搭建方式可以用~~逗比~~（怀念逗比大佬）的脚本，教程：[ssrmu.sh](https://doubibackup.com/z2a4lk3l-2.html) ，不过建议选择购买各大机场的SSR服务，更划算一点，机场选购可以参考一个telegram评测频道，链接： [Professional-V1 Blog](https://t.me/V1_BLOG)   
 
@@ -235,3 +236,4 @@ nohup ./v2ray >> /dev/null 2>&1 &
 > SXNat-Bronze: <https://www.ygeidc.com/cart.php?a=add&pid=24>   
 > JSNat-Bronze: <https://www.ygeidc.com/cart.php?a=add&pid=35> 循环5折优惠码 <font color="red">_JSNat-50_</font>    
 > PQS: <https://www.pqs.pw/cart.php?gid=15>   
+> cbvps: <http://www.cbvps.net/cart.php?gid=14>   
