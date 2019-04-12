@@ -218,7 +218,14 @@ ip6tables -I INPUT -m state --state NEW -m tcp -p tcp --dport 3389 -j ACCEPT
 iptables-save > /etc/iptables.up.rules
 ip6tables-save > /etc/ip6tables.up.rules
 ```
-到此，就可以在你的设备上连接MTP测试啦   
+到此，就可以在你的设备上连接MTP测试啦  
+然后每次开机运行如下命令即可：   
+```bash
+ssr start
+cd /root/mtp
+nohup ./v2ray >> /dev/null 2>&1 &
+```   
+
 > 另外，使用NAT服务器设置端口映射可以参考《[使用NAT VPS服务并联机](http://www.cbvps.net/index.php/knowledgebase/1/NAT-VPS.html) 》   
 
 <font color="red">**注意**</font>：写教程好累的，所以本文上述服务器购买链接都有我的AFF，如果真的很介意的话，下面是所有不带AFF的链接qwq   
