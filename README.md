@@ -86,7 +86,7 @@ echo '{
     "connect_verbose_info": 0,
     "redirect": "",
     "fast_open": false
-}' > /usr/local/share/shadowsocksr/config.json
+}' > ~/.local/share/shadowsocksr/config.json
 ```
 > Tips:    
 > 启动 `ssr start`   
