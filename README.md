@@ -59,7 +59,7 @@ remote: Total 5490 (delta 0), reused 0 (delta 0), pack-reused 5490
 Receiving objects: 100% (5490/5490), 1.71 MiB | 410.00 KiB/s, done.
 Resolving deltas: 100% (3799/3799), done.
 ```
-紧接着就可以配置SSR客户端啦，使用 `ssr config` 来修改配置文件，然后使用 `ssr start` 启动SSR，配置文件路径 `/usr/local/share/shadowsocksr/config.json`    
+紧接着就可以配置SSR客户端啦，使用 `ssr config` 来修改配置文件，然后使用 `ssr start` 启动SSR，配置文件路径 `~/.local/share/shadowsocksr/config.json`    
 > <font color="red">**注意**</font>: 如果不会使用vim，建议先把下面的命令全部复制到你本地的文本编辑器里面，替换掉上面的配置信息（SSR服务器的IP端口和密码等），然后将全部内容复制到剪切板一起执行   
 
 ```bash
