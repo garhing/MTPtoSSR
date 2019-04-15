@@ -15,13 +15,13 @@
 
 ###### 第一家：[OLVPS](https://t667.com/aff.php?aff=261&gid=1)    
 
-兔子家的，推荐买江苏镇江的NAT机，25元那款最划算，不过现在没货，不过随时会补货，订购链接：[Zhenjiang Kvm Nat 256](https://t667.com/aff.php?aff=261&a=add&pid=57)，可以去[梨园论坛](https://bbs.liyuans.com/)看看有没有人卖，最近看见有不少人出   
+兔子家的，推荐买江苏镇江的NAT机，25元那款最划算，如果遇到没货随时会补货，订购链接：[Zhenjiang Kvm Nat 256](https://t667.com/aff.php?aff=261&a=add&pid=57)，可以去[梨园论坛](https://bbs.liyuans.com/)看看有没有人卖，最近看见有不少人出   
 如果有货的话江苏的 _Jiangsu Kvm Nat 256_ 那款也行   
 
-###### 第二家：[昱格云](https://www.ygeidc.com/aff.php?aff=55&gid=9)   
+###### 第二家：[昱格云](https://www.ygeidc.com/aff.php?aff=55&gid=11)   
 
-老咸鱼家的，推荐买绍兴柯桥双线，也是25元那款（现货），订购链接：[SXNat-Bronze](https://www.ygeidc.com/aff.php?aff=55&a=add&pid=24)   
-然后他家的江苏高防BGP也不错，就是最近出墙有点问题，商家正在解决，可以的话BGP那款对联通用户更友好一点，也是25元（现货，而且可以使用循环5折优惠码 <font color="red">_JSNat-50_</font> 折后只要14.99元一个月），订购链接：[JSNat-Bronze](https://www.ygeidc.com/aff.php?aff=55&a=add&pid=35)   
+老咸鱼家的，推荐买绍兴柯桥双线，也是25元那款（~现货~），订购链接：[SXNat-Bronze](https://www.ygeidc.com/aff.php?aff=55&a=add&pid=24)   
+~然后他家的江苏高防BGP也不错，就是最近出墙有点问题，商家正在解决，可以的话BGP那款对联通用户更友好一点，也是25元（现货，而且可以使用循环5折优惠码 <font color="red">_JSNat-50_</font> 折后只要14.99元一个月），订购链接：[JSNat-Bronze](https://www.ygeidc.com/aff.php?aff=55&a=add&pid=35)~（该套餐已下架，商家目前正在准备把江苏的迁移到绍兴，另外正在筹备上新区域的服务器）   
 
 另外如果需要不限流量的可以看看 [PQS](https://www.pqs.pw/aff.php?aff=31&gid=15) 这家新上的深圳电信家宽，出墙应该更快   
 更便宜的还有 CanBesystems(cbvps) 家的河南BGP，不过我没用过，订购链接：[河南BGP](http://www.cbvps.net/cart.php?gid=14)   
