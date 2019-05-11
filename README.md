@@ -237,3 +237,10 @@ nohup ./v2ray >> /dev/null 2>&1 &
 > JSNat-Bronze: <https://www.ygeidc.com/cart.php?a=add&pid=35> 循环5折优惠码 <font color="red">_JSNat-50_</font>    
 > PQS: <https://www.pqs.pw/cart.php?gid=15>   
 > cbvps: <http://www.cbvps.net/cart.php?gid=14>   
+------
+#SSR 进程守护
+```bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/whunt1/MTPtoSSR/master/runssr.sh && chmod +x runssr.sh && bash runssr.sh
+```
+正常执行后，运行 `crontab -e` 添加如下ddi定时任务，"/usr/local/shadowsocksr" 为 Shadowsocksr 安装目录
+* * * * * /bin/bash /usr/local/shadowsocksr/runssr.sh
