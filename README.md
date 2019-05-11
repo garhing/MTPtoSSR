@@ -241,6 +241,7 @@ nohup ./v2ray >> /dev/null 2>&1 &
 ------   
    
 # SSR 进程守护
+首先 `cd` 到 SSR 安装目录下，执行
 ```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/whunt1/MTPtoSSR/master/runssr.sh && chmod +x runssr.sh && bash runssr.sh
 ```
